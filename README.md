@@ -1,7 +1,7 @@
 <div align = center>
 
 # Welcome to my GitHub
-## I am a senior in computer engineering at [Purdue University](https://www.purdue.edu/).
+## Senior in computer engineering at [Purdue University](https://www.purdue.edu/).
 
 [![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
 [![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)](https://en.cppreference.com/w/)
